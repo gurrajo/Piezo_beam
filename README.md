@@ -4,5 +4,5 @@ The function are generated using matlabs symbolic math module for easy verificat
 
 Piezo_fem_test generate the matrix funtion for the FEM method whereas the piezo_beam_1, and 2 generate functions for the modal shape method. 
 
-Data_free, short_data, and data_exp1 contain experimental data for vertical displacement, time and for the resistor shunted case a voltage. 
+Free_data, Open_data, and Resistor_data contains experimental data for vertical displacement, time and for the resistor shunted case, a voltage. 
 
